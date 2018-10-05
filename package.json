@@ -1,0 +1,26 @@
+{
+  "name": "bot-index",
+  "version": "1.0.0",
+  "description": "Bot index page and builder.",
+  "private": true,
+  "main": "index.html",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jimkang/bot-index.git"
+  },
+  "keywords": [
+    "request",
+    "http"
+  ],
+  "author": "Jim Kang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimkang/bot-index/issues"
+  },
+  "homepage": "https://github.com/jimkang/bot-index",
+  "devDependencies": {},
+  "dependencies": {
+  }
+}

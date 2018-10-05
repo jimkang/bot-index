@@ -1,0 +1,56 @@
+[
+  {
+    "id": "colorer",
+    "name": "Colorer",
+    "desc": "Looks at pictures; tries to see where color boundaries are, then takes a shot filling those boundaries in its own way.",
+    "imgURL": "https://smidgeo.com/bots/colorer/media/coloring--AFzUukcb.png",
+    "imgAlt": "A strange field",
+    "mastodonId": "colorer",
+    "twitterId": "ColorerB"
+  },
+  {
+    "id": "dem-bones",
+    "name": "Dem Bones",
+    "desc": "A bot that tries to assemble skeletons at random",
+    "imgURL": "https://smidgeo.com/bots/dem-bones/media/bones--PStBYBFq.png",
+    "imgAlt": "Skeleton attempt",
+    "mastodonId": "bones",
+    "twitterId": "dem_bones_bot"
+  },
+  {
+    "id": "land-of-contrasts",
+    "name": "Land of Contrasts",
+    "desc": "It makes those maps that tell you how each state in     the country feels about some topic. It may or may not skip the surveying part.",
+    "imgURL": "https://smidgeo.com/bots/land-of-contrasts/media/fact-map--MHmBjIUR.png",
+    "imgAlt": "https://smidgeo.com/bots/land-of-contrasts/media/fact-map--MHmBjIUR.png",
+    "mastodonId": "landofcontrasts",
+    "twitterId": "landofcontrasts"
+  },
+  {
+    "id": "hills",
+    "name": "Hills",
+    "desc": "It makes hills; sometimes a lot of them, sometimes a few of them. In different colors.",
+    "imgURL": "https://smidgeo.com/bots/hills/media/hill-VknZBRmh.png",
+    "imgAlt": "Hills that are kinda wave-like.",
+    "mastodonId": "hills",
+    "twitterId": "hillsbot"
+  },
+  {
+    "id": "autocompletejok",
+    "name": "Autocomplete Jokes",
+    "desc": "It knows how knock knock jokes go, but when it comes to filling them in, it needs help. So, it sees what Google's autocomplete suggests.",
+    "imgURL": "",
+    "imgAlt": "",
+    "mastodonId": "autocompletejok",
+    "twitterId": "autocompletejok"
+  },
+  {
+    "id": "fuckingshakespeare",
+    "name": "Fucking Shakespeare",
+    "desc": "What if Shakespeare said \"fuck\" a lot?",
+    "imgURL": "",
+    "imgAlt": "",
+    "mastodonId": "fuckingshakespeare",
+    "twitterId": "fuckingbard"
+  }
+]
