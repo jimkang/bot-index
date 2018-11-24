@@ -68,6 +68,10 @@ footer {
   padding: 2em;
 }
 
+ul {
+  list-style-type: none;
+}
+
 @media all and (max-width: 414px) {
   body {
     font-size: 12px;
