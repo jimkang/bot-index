@@ -33,7 +33,7 @@ a:visited {
   border: 1px solid #666;
   border-radius: 0.5em;
   padding: 1em;
-  width: 80%;
+  width: 60%;
   min-width: 320px;
   margin-bottom: 1em;
 }
@@ -45,6 +45,7 @@ a:visited {
 
 .bot-entry img {
   max-width: 90%;
+  max-height: 800px;
 }
 
 .bot-entry .description {

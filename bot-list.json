@@ -2,7 +2,7 @@
   {
     "id": "colorer",
     "name": "Colorer",
-    "desc": "Looks at pictures; tries to see where color boundaries are, then takes a shot filling those boundaries in its own way.",
+    "desc": "Looks at pictures; tries to see where color boundaries are, then takes a shot at filling those boundaries in its own way.",
     "imgURL": "https://smidgeo.com/bots/colorer/media/coloring--LCKIGsoY.png",
     "imgAlt": "Wedding stockings",
     "mastodonId": "colorer",
