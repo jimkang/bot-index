@@ -52,5 +52,12 @@
     "imgAlt": "",
     "mastodonId": "fuckingshakespeare",
     "twitterId": "fuckingbard"
+  },
+  {
+    "id": "godtributes",
+    "name": "GODTRIBUTES",
+    "desc": "A bot that posts tributes to befitting each god! My most popular bot.",
+    "imgURL": "https://smidgeo.com/bots/godtributes/images/icon.png",
+    "imgAlt": "ARRRRGH!"
   }
 ]
