@@ -59,5 +59,12 @@
     "desc": "A bot that posts tributes to befitting each god! My most popular bot.",
     "imgURL": "https://smidgeo.com/bots/godtributes/images/icon.png",
     "imgAlt": "ARRRRGH!"
+  },
+  {
+    "id": "successfulbot",
+    "name": "The Most Successful Bot I've Met",
+    "desc": "A bot powered by ConceptNet and Wordnik telling you all about the most successful people it's met, so that you, too, can be successful, which is all we all want to be.",
+    "imgURL": "",
+    "imgAlt": ""
   }
 ]
