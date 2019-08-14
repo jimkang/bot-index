@@ -1,5 +1,12 @@
 [
   {
+    "id": "selftaggingbot",
+    "name": "Self-Tagging Bot",
+    "desc": "Fun-loving bot that tags itself in pictures and encourages you to do the same!",
+    "imgURL": "https://smidgeo.com/bots/media/self-tagging-bot-recreation.png",
+    "imgAlt": "Recreation!"
+  },
+  {
     "id": "colorer",
     "name": "Colorer",
     "desc": "Looks at pictures; tries to see where color boundaries are, then takes a shot at filling those boundaries in its own way.",
