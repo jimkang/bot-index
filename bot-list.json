@@ -1,5 +1,12 @@
 [
   {
+    "id": "spinners",
+    "name": "Spinners",
+    "desc": "The bot version of <a href=\"https://jimkang.com/spinners\">Spinners</a>, which generates bunches of spinning things all the time.",
+    "imgURL": "https://jimkang.github.io/observatory-meta/media/spinners.gif",
+    "imgAlt": "Tomatoes to galaxies…all spinning."
+  },
+  {
     "id": "selftaggingbot",
     "name": "Self-Tagging Bot",
     "desc": "Fun-loving bot that tags itself in pictures and encourages you to do the same!",
