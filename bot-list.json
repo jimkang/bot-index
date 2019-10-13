@@ -1,5 +1,12 @@
 [
   {
+    "id": "eyes-bot",
+    "name": "👀 bot",
+    "desc": "Adds eyes to things.",
+    "imgURL": "media/buildings-with-eyes.jpg",
+    "imgAlt": "👀"
+  },
+  {
     "id": "spinners",
     "name": "Spinners",
     "desc": "The bot version of <a href=\"https://jimkang.com/spinners\">Spinners</a>, which generates bunches of spinning things all the time.",
