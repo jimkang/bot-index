@@ -1,5 +1,12 @@
 [
   {
+    "id": "slopcube",
+    "name": "Slop Cube",
+    "desc": "A cube that is not perfect but always moving.",
+    "imgURL": "media/slop-cube4.gif",
+    "imgAlt": "Slop Cube"
+  },
+  {
     "id": "eyes-bot",
     "name": "👀 bot",
     "desc": "Adds eyes to things.",
