@@ -13,6 +13,7 @@ pushall: sync
 sync:
 	scp app.css $(USER)@$(SERVER):$(APPDIR)
 	scp index.html $(USER)@$(SERVER):$(APPDIR)
+	rsync -a media $(USER)@$(SERVER):$(APPDIR)
 
 prettier:
 	prettier --single-quote --write "**/*.js"
