@@ -40,7 +40,7 @@
     "id": "dem-bones",
     "name": "Dem Bones",
     "desc": "A bot that tries to assemble skeletons at random",
-    "imgURL": "https://smidgeo.com/bots/dem-bones/media/bones.gif",
+    "imgURL": "https://smidgeo.com/bots/media/bones.gif",
     "imgAlt": "Skeleton attempt",
     "mastodonId": "bones",
     "twitterId": "dem_bones_bot"
