@@ -94,5 +94,82 @@
     "desc": "A bot powered by ConceptNet and Wordnik telling you all about the most successful people it's met, so that you, too, can be successful, which is all we all want to be.",
     "imgURL": "",
     "imgAlt": ""
+  },
+  {
+    "id": "autocompleterap",
+    "name": "Autocomplete Rap",
+    "desc": "Autocomplete-powered raps. (Retired.)",
+    "imgURL": "",
+    "imgAlt": ""
+  },
+  {
+    "id": "bot-in-the-street",
+    "name": "Bot in the Street",
+    "desc": "A snowclone in the street but a meme in the sheets! Powered by <a href=\"https://wordnik.com\">. (Retired.)",
+    "imgURL": "",
+    "imgAlt": ""
+  },
+  {
+    "id": "demakebot",
+    "name": "Demake Bot",
+    "desc": "Bot that remakes images into lower-resolution images. (Retired.)",
+    "imgURL": "",
+    "imgAlt": ""
+  },
+  {
+    "id": "hail-ants-bot",
+    "name": "Hail Ants Bot",
+    "desc": "News about the inevitable hegemony of ants, an ever-growing threat to humanity. (Retired.)",
+    "imgURL": "",
+    "imgAlt": ""
+  },
+  {
+    "id": "improvebot",
+    "name": "Improvebot",
+    "desc": "Always taking concepts and improving them, bot-style. (Retired.)",
+    "imgURL": "",
+    "imgAlt": ""
+  },
+  {
+    "id": "linkfinds",
+    "name": "Link Finding Things",
+    "desc": "Doo doo doo doo! (Retired.)",
+    "imgURL": "",
+    "imgAlt": ""
+  },
+  {
+    "id": "memberfacts",
+    "name": "Member Facts",
+    "desc": "Getting you the real *facts* about who's in what band and what guys the shows are *about*! (Retired.)",
+    "imgURL": "",
+    "imgAlt": ""
+  },
+  {
+    "id": "monstersubtypes",
+    "name": "Monster Subtypes",
+    "desc": "Discovered new, very specific monster subtypes all the time! (Retired.)",
+    "imgURL": "",
+    "imgAlt": ""
+  },
+  {
+    "id": "ourmagickfuture",
+    "name": "Our Magick Future",
+    "desc": "Strange things we don't understand are happening to our world! Catch up on them here. (Retired.)",
+    "imgURL": "",
+    "imgAlt": ""
+  },
+  {
+    "id": "snakepeoplebot",
+    "name": "Snake People Bot",
+    "desc": "Are you alarmed about these new snake people? No? You should be! A bot that gathers news about their doings. A bot port of <a href=\"https://ericbailey.design\">Eric Bailey's</a> amazing <a href=\"https://gizmodo.com/new-york-times-issues-correction-after-editor-fails-to-1823587138\">Millennials to Snake People browser extension</a>. (Retired.)",
+    "imgURL": "",
+    "imgAlt": ""
+  },
+  {
+    "id": "spaceweirdnessbot",
+    "name": "Space Weirdness Bot",
+    "desc": "Floating through space, discovering unexpected things all over. (Retired.)",
+    "imgURL": "",
+    "imgAlt": ""
   }
 ]
