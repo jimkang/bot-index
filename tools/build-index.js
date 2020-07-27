@@ -12,7 +12,7 @@ var entries = JSON.parse(fs.readFileSync(__dirname + '/../' + process.argv[2], {
 var pageTemplate = fs.readFileSync(__dirname + '/../' + process.argv[3], { encoding: 'utf8' });
 var entryTemplate = fs.readFileSync(__dirname + '/../' + process.argv[4], { encoding: 'utf8' });
 
-var entriesHTML = entries.map(makeHTMLForEntry);
+var entriesHTML = entries.map(makeHTMLForEntry).join('\n');
 console.log(pageTemplate.replace(/__BOT_ENTRIES__/, entriesHTML));
 
 function makeHTMLForEntry(entry) {
