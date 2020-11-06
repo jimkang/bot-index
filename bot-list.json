@@ -96,6 +96,13 @@
     "imgAlt": ""
   },
   {
+    "id": "linkfinds",
+    "name": "Link Finding Things",
+    "desc": "Doo doo doo doo!",
+    "imgURL": "https://smidgeo.com/bots/linkfinds/media/WhoppersszSWAkwd.png",
+    "imgAlt": "Link finds a Whopper."
+  },
+  {
     "id": "autocompleterap",
     "name": "Autocomplete Rap",
     "desc": "Autocomplete-powered raps. (Retired.)",
@@ -127,13 +134,6 @@
     "id": "improvebot",
     "name": "Improvebot",
     "desc": "Always taking concepts and improving them, bot-style. (Retired.)",
-    "imgURL": "",
-    "imgAlt": ""
-  },
-  {
-    "id": "linkfinds",
-    "name": "Link Finding Things",
-    "desc": "Doo doo doo doo! (Retired.)",
     "imgURL": "",
     "imgAlt": ""
   },
