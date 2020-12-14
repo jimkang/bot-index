@@ -1,5 +1,12 @@
 [
   {
+    "id": "you-never-see-it-bot",
+    "name": "You Never See It Bot",
+    "desc": "Robotic observational humor about words.",
+    "imgURL": "https://smidgeo.com/bots/you-never-see-it-bot/media/you-never-see-it-128.png",
+    "imgAlt": "Slop Cube"
+  },
+  {
     "id": "slopcube",
     "name": "Slop Cube",
     "desc": "A cube that is not perfect but always moving.",
